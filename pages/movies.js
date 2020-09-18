@@ -18,7 +18,17 @@ const movies = [
     synopsis: "Alias odio architecto aperiam vitae sapiente tenetur voluptas illum itaque velit iste. Dicta eius ullam cumque, quos quasi quaerat odit rerum officia.",
     ratings: 3,
   },
-]
+  {
+    title: "Joker",
+    synopsis: "Pellentesque mauris elit, vulputate eu sagittis ut, molestie vitae orci. Integer rutrum, ex vitae sodales sagittis, risus neque consequat libero, eget lacinia orci nibh et turpis.",
+    ratings: 5,
+  },
+  {
+    title: "Tenet",
+    synopsis: "Nulla tristique aliquet egestas. Nunc posuere dolor lorem, sit amet mattis mi sagittis nec. Nullam facilisis justo sit amet sem bibendum pretium.",
+    ratings: 0,
+  },
+    ]
 
 const Movies = () => {
   return (
